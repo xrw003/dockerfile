@@ -4,4 +4,7 @@
 
 ## Stargazers over time
 
-[![Stargazers over time](https://starcharts.herokuapp.com/mritd/dockerfile.svg)](https://starcharts.herokuapp.com/mritd/dockerfile)
+## Stargazers over time
+
+[![Stargazers over time](https://starcharts.herokuapp.com/xrw002/dockerfile.svg)](https://starcharts.herokuapp.com/xrw002/dockerfile)
+      
